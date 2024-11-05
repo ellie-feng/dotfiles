@@ -12,8 +12,8 @@ screenshots here
 
 
 ## apps that i use
-WM: yabai
-Bar: Sketchybar
-Terminal: kitty
-Emacs: Doom Emacs w/ Org Mode
-Browser: Firefox with text-tui theme and sideberry extension
+WM: yabai <br>
+Bar: Sketchybar <br>
+Terminal: kitty <br>
+Emacs: Doom Emacs w/ Org Mode <br>
+Browser: Firefox with text-tui theme and sideberry extension <br>
