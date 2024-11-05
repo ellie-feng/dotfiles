@@ -4,7 +4,7 @@ my config files for my macos setup!
 ## file links here
 
 ## light mode
-screenshots here
+![kitty and emacs]('/Users/elliefeng/Downloads/Screenshot 2024-11-05 at 14.28.52.png')
 
 
 ## dark mode
