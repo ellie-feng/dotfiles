@@ -6,6 +6,7 @@ Depending on my environment, I switch between light and dark mode.
 ## apps that i use
 WM: [yabai](https://github.com/koekeishiya/yabai) <br>
 Bar: [Sketchybar](https://github.com/FelixKratz/SketchyBar) <br>
+Border: [JankyBorder](https://github.com/FelixKratz/JankyBorders) <br>
 Terminal: [kitty](https://sw.kovidgoyal.net/kitty/) <br>
 Emacs: [Doom Emacs w/ Org Mode](https://github.com/doomemacs/doomemacs)  <br>
 Browser: Firefox with text-tui theme and sideberry extension <br>
